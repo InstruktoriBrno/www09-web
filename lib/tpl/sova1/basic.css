@@ -1,0 +1,46 @@
+body {
+  font:normal 0.750em/150% Arial,Sans;
+}
+
+
+#obsah h1 {
+  font-size:1.250em; margin:0.550em 0em 0.8em 1em; padding:0em;
+}
+
+#obsah h2 {
+  margin:0.5em; padding:0em;
+}
+
+#obsah p { 
+  margin:1em 0.5em 0.7em 1.2em; text-align:justify; 
+}     
+
+#obsah .akce {
+  margin:0em 0.5em 0.9em 1.2em;
+  padding:0.500em;
+  background-color:#DFE1BB;
+}
+#obsah .akce .box50L img {
+  margin:2px 0px 0px 3px;
+  border:1px solid #B7BA7F;
+}          
+#obsah .akce .box50R img {
+  margin:2px 2px 0px 2px; float:right;
+}
+
+#obsah .akce p {
+  margin:0em 0em 0.350em 0em; padding:0em; font-size:0.900em; line-height:125%;
+}
+#obsah .akce h2 {
+  font-size:1.100em; margin:0em 0em 0.150em 0em; padding:0em;
+}
+#obsah .akce h2 a {
+  text-decoration:none; color:#000;
+}                 
+#obsah .akce h2 a:hover {
+  text-decoration:underline;
+} 
+
+.ico {
+  cursor:help;
+}
